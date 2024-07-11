@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1649126,
+      "category": "Philosophy",
+      "title": "Why do people live",
+      "description": "Everyone lives for their own ideals.",
+      "location": "Chiang mai",
+      "date": "July 25th, 2024",
+      "time": "14:00",
+      "petsAllowed": true,
+      "organizer": "Old Dog"
     }
   ]
 }
